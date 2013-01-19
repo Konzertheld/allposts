@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>AllPosts</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<url>http://habariproject.org/</url>
+	<author url="http://konzertheld.de">Konzertheld</author>
+	<author url="http://habariproject.org/">The Habari Community</author>
+	<version>1.0</version>
+	<description><![CDATA[Add ability to view all your posts at once.]]></description>
+	<help><value><![CDATA[Use yourdoma.in/allposts/all to display all published posts. Use yourdoma.in/allposts/custom to display published posts of the type you specified in the options. Both can be disabled.]]></value></help>
+	<copyright>2013</copyright>
+</pluggable>
